@@ -20,12 +20,14 @@
       }
       h2{
       font-family: 'Wire One', sans-serif;
-  position:static;
-  margin-top:160px;
-  margin-left:50px;
+  position:fixed;
+  top:60%;
+  left:25%;
   font-style:italic;
-  font-size:48px;
-  transform: rotate(-18deg);
+  font-size:68px;
+  word-spacing: 0.75em;
+  letter-spacing: 0.25em;
+  transform: rotate(20deg);
 }
 
       span{

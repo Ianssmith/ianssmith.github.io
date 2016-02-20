@@ -57,7 +57,7 @@ function draw() {
   }
 
    highCount = height/yVec*1.014;
- wideCount = width/vec*2+3.1;
+ wideCount = width/vec*2+3.048;
  units = highCount*wideCount;
      startHexX = wideCount/4*vec-vec;
      startHexY = highCount/2*yVec-2*yVec;
