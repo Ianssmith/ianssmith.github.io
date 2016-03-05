@@ -29,6 +29,27 @@
   letter-spacing: 0.25em;
   transform: rotate(20deg);
 }
+h3{
+  font-family: 'Wire One', sans-serif;
+  color: white;
+  top:1.95%;
+    left:2.7%;
+  position:absolute;
+  font-size:68px;
+  word-spacing: 0.75em;
+  letter-spacing: 0.25em;
+  text-shadow:0 0 4px white;
+}
+h4{
+  font-family: 'Wire One', sans-serif;
+  color: white;
+    left:8.974%;
+  top: 27%;
+  position:absolute;
+  font-size:38px;
+  max-width: 400px;
+  text-shadow:0 0 4px white;
+}
 
       span{
         color:#990000;
@@ -38,7 +59,7 @@
             text-align:center;
 
     font-family: 'Wire One', sans-serif;
-    font-size:28px;
+    font-size:31px;
     margin: 0 auto;
     padding-top: 50px;
     padding-bottom:50px;
@@ -53,7 +74,7 @@ li {
     display: inline-block;
     margin: 0 auto;
     color: white;
-    padding: 8px 16px 8px 16px;
+    padding: 8px 8px 8px 8px;
     border:none;
     border-radius: 1px;
 }
