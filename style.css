@@ -79,8 +79,24 @@ li {
     border-radius: 1px;
 }
 
+a {
+
+    display: inline-block;
+    margin: 0 auto;
+    text-decoration: none;
+    color: white;
+    padding: 8px 8px 8px 8px;
+    border:none;
+    border-radius: 1px;
+}
+
 li:hover{
   background-color: #222222;
+}
+
+a:hover{
+  background-color: #222222;
+  text-decoration: none;
 }
 
 .dropdown-content {
