@@ -201,3 +201,12 @@ p{
 
 }
 
+#ClickMe{
+color:#000;
+font-size:30px;
+position:absolute;
+opacity: 0.3;
+font-family: 'Wire One', sans-serif;
+font-style:italic;
+margin-top:155px;
+}
