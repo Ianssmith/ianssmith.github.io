@@ -14,7 +14,8 @@ function setup() {
 
 function mousePressed(){
 	for (var i = 0; i<400; i++){
-		bubbles[i] = new Bubble(randomGaussian(random(mouseX-2, mouseX+2), 20), randomGaussian(random(mouseY-2, mouseY+2), 20), 0, 90, random(-5,5), random(-5,5));
+		//bubbles[i] = new Bubble(randomGaussian(random(mouseX-2, mouseX+2), 20), randomGaussian(random(mouseY-2, mouseY+2), 20), 0, 90, random(-5,5), random(-5,5));
+		bubbles[i] = new Bubble(randomGaussian(random(mouseX-2, mouseX+2), 20), randomGaussian(random(mouseY-2, mouseY+2), 20), windowWidth, 90, random(-5,5), random(-5,5));
 
 	}
 }
