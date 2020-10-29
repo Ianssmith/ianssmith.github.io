@@ -2,6 +2,66 @@
    padding:0;
    margin:0;
  }
+ p{
+	 color:black;
+        font-family: 'Lato', sans-serif;  
+        width:100%;
+        text-align:center;
+        font-size:18px;
+	padding:10px10px10px0px;
+ }
+ 
+ body{
+        background:black;
+      }
+      h1{
+  color: white;
+        width:100%;
+        margin:0 auto;
+        color:#000099;
+        font-family: 'Lato', sans-serif;  
+        font-size:40px;
+        text-align:center;
+       /* border:2px solid white;
+        border-left:dotted;
+        border-right:dotted;
+        border-radius:13.5px; */
+      }
+      h2{
+        width:100%;
+	padding:150px 200px 42px 200px;
+      font-family:  sans-serif;
+  font-style:italic;
+  font-size:68px;
+  word-spacing: 0.15em;
+  letter-spacing: 0.15em;
+  color: white;
+}
+h3{
+  font-family: 'Wire One', sans-serif;
+  color: white;
+  top:1.95%;
+    left:2.7%;
+  position:absolute;
+  font-size:68px;
+  word-spacing: 0.75em;
+  letter-spacing: 0.25em;
+  text-shadow:0 0 4px white;
+}
+h5{
+  font-family: 'Wire One', sans-serif;
+	padding-left:200px;
+  color: white;
+  /*
+    left:8.974%;
+  top: 27%;
+  position:absolute;
+  */
+  font-size:38px;
+  width:100%;
+  /*max-width: 400px;*/
+  text-shadow:0 0 4px white;
+}
  
  body{
         background:white;
